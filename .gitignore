@@ -1,0 +1,6 @@
+/.cachedir/
+/.idea/
+/__pycache__/
+/venv/
+*.db
+*.json
