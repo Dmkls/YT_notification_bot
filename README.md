@@ -20,6 +20,10 @@ In order to run it you need to do 3 things:<br><br>
   <li>Put tokens in the <i>config.py</i> file</li>
 </ul><br>
 
-3. <i>pip install -r requirements.txt</i>
+3. requirements.txt
+<ul>
+  <li><i>pip install -r requirements.txt</i></li>
+  <li>Replace file <i>./venv/Lib/site-packages/google_auth_oauthlib/flow.py</i> with <i>./update/flow.py</i></li>
+</ul>
 
 To run the bot properly, first run <b>back.py</b>, then <b>bot.py</b>
