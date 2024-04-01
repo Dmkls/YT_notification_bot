@@ -1,0 +1,13 @@
+aiogram~=3.4.1
+pydantic~=2.5.3
+ngrok~=1.0.0
+feedparser~=6.0.11
+aiohttp~=3.9.3
+Werkzeug~=0.16.0
+yt_dlp~=2023.12.30
+google-api-core~=2.16.2
+google-api-python-client~=2.116.0
+google-auth~=2.27.0
+google-auth-httplib2~=0.2.0
+google-auth-oauthlib~=1.2.0
+googleapis-common-protos~=1.62.0
